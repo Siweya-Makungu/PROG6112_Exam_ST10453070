@@ -1,0 +1,10 @@
+MATTRESS SALES REPORT
+******************************
+Customer Name: Joe Bloggs
+Product: Cozy Nights Monarch
+Original Price: R 3500.00
+VAT (15%): R 525.00
+COMMISSION (5%): R 175.00
+TOTAL: R 4200.00
+******************************
+
